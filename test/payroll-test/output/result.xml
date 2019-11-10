@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.056999999999999995" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-11-10T14:56:47" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Payroll" timestamp="2019-11-10T14:56:47" tests="2" file="/Users/octaviodimarco/Documents/Facultad/4to/Ingenieria_de_Software_III/Ingenieria-de-Software-III/trabajo-practico-10/test/payroll-test/github_test.js" failures="0" time="0.056999999999999995">
+    <testcase name="Payroll: Verificar a successful call" time="0.044" classname="Verificar a successful call">
+    </testcase>
+    <testcase name="Payroll: Verificar empleado 1" time="0.013" classname="Verificar empleado 1">
+    </testcase>
+  </testsuite>
+</testsuites>
